@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "icecream"]
+	path = icecream
+	url = https://github.com/lewinfox/icecream
+	shallow = true
+	registered = true
+[submodule "levitate"]
+	path = levitate
+	url = https://github.com/lewinfox/levitate
+	shallow = true
+	registered = true

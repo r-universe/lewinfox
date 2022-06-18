@@ -1,0 +1,10 @@
+[
+  {
+    "package": "icecream",
+    "oncran": true
+  },
+  {
+    "package": "levitate",
+    "oncran": true
+  }
+]
